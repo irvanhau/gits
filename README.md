@@ -1,4 +1,4 @@
-## Penjelasan Analisis Komplesitas dari Kode
+## Penjelasan Analisis Kompleksitas dari Kode soal No. 2
 
 1. Time Complexity
    - Loop fungsi utama mengulangi setiap karakter dalam input berupa string.
